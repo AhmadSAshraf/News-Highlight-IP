@@ -1,12 +1,12 @@
 # NewsGram
 An application that will help users to list and preview news articles from various sources.   
 
-## Built By []()
+## Built By [Ahmad Ashraf]()
 
 ## Description
 NewsGram is a web application that displays a list of various news sources like BBC and ABC. On choosing a news source, it will preview the top news articles of the day. Clicking a news article will redirect the user to read it fully from the news source. It achieves this by using the [News API](https://newsapi.org/).
 
-You can view the site at: 
+You can view the site at: https://newsgram366.herokuapp.com/
 
 ## User Stories
 These are the behaviours/features that the application implements for use by a user.
@@ -72,4 +72,4 @@ As a user I would like to:
 * Flask
 
 ## License
-MIT &copy;2019 [ ](https://github.com
+MIT &copy;2019 [Ahmad Ashraf](https://github.com/AhmadSAshraf)
